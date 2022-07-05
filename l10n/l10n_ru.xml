@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <l10n>
+    <translationContributors>nagor</translationContributors>
 	<texts>
 		<!-- Mission descriptions -->
 		<text name="tc_bakery" text="Привезите хлебобулочные изделия. Пожалуйста, доставьте поддоны к '%s'." />
